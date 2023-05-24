@@ -1,1 +1,1 @@
-Gépi látás és képfeldolgozás az egészségügyben féléves beadandó feladat. Dóczy Kristóf László & Tolnai Dominik :)
+Gépi látás és képfeldolgozás az egészségügyben (NBXGL1HBNE) - GL1_LA_01_MI kódú kurzus féléves beadandó feladata. Készítették: Dóczy Kristóf László (QRM4PB) & Tolnai Dominik (AXJ0GV). A kiválasztott téma: Saját telefon kamerájának, vagy tetszőleges kamera belső paramétereinek meghatározása (kamera kalibráció). Nehézség: 4/5.
